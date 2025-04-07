@@ -3,7 +3,7 @@
 1. What did you build?
 I tried to build a simplistic version of blackjack, but got a bit overambitious
 2. What language(s) or tools did you use?
-I used java and VSCode
+I used java, VSCode, and Gemini
 3. Which AI tools did you use, and how?
 I used Gemini to help me with methods I had no idea how to even begin to tackle (i.e. the code responsible for shuffling the deck).
 4. What did you do versus what AI helped with?
