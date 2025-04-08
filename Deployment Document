@@ -1,0 +1,12 @@
+Naturally, you'll need something that can run java (JDK, online IDE, it doesn't matter)
+
+The program is intended to run in a loop, which will continue as long as the player has credits to spend and doesn't choose to quit, but misjudgements in scope meant the project is currenlty in an unfinished state.
+Before the game starts, it will ask you for your name and give you 15 credits to gamble.
+When running the program, be mindful of what the program is requesting you input.
+- when requesting the bet, please input a positive integer
+- when requesting player action, the words "hit" or "stand" are the only valid inputs, entering anything else is managed
+
+Hit: draw a card, if the total is greater than 21, the round is a bust
+Stand: stop drawing cards and go to the dealer's turn
+
+The dealer will hit until it has a total of at least 17, at which point it will either stand or bust.
